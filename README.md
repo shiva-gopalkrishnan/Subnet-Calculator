@@ -12,4 +12,4 @@ Subnet Calculator is a Network application that given an IP Address and Subnet M
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/2Olszvf070.gif" width=250><br>
