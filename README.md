@@ -8,8 +8,3 @@ Subnet Calculator is a Network application that given an IP Address and Subnet M
 4. Wildcard Mask
 5. No. of Mask Bits (CIDR Notation)
 6. Random IP Address generator from the subnet
-
-
-### App Walkthough GIF
-
-<img src="http://g.recordit.co/2Olszvf070.gif" width=600><br>
